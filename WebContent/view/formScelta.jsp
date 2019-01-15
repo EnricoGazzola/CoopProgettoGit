@@ -17,7 +17,7 @@
 <!-- 					<option name = operazione value="visualizza">Visualizza</option> -->
 <!-- 					<option name = operazione value="modifica">Modifica</option> -->
 <!-- 					<option name = operazione value="elimina">Elimina</option> -->
-<!-- 				</select> -->
+<!-- 				</select> prova 1 -->
 				
 <!-- 				<select> -->
 <!-- 					<option name = tabella value="">----</option> -->
