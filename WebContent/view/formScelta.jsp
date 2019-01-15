@@ -29,9 +29,9 @@
 <!-- 			<br><br> -->
 <!-- 			<input type="button" onclick="../MainController" value="Avanti"/> -->
 
-		<a href="../CoopController?tabella=prodotti">Prodotti</a>
-		<a href="../CoopController?tabella=categorie">Categorie</a>
-		<a href="../CoopController?tabella=fornitori">Fornitori</a>
+				<a href="controlloProdotti.jsp" ><font face="SansSerif" size="6" color="#000000">Prodotti</font></a><br><br>
+				<a href="controlloFornitori.jsp"><font face="SansSerif" size="6" color="#000000">Fornitori</font></a><br><br>
+				<a href="controlloCategorie.jsp"><font face="SansSerif" size="6" color="#000000">Categorie</font></a><br><br>
 		</div>
 	</form>
 </body>

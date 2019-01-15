@@ -18,7 +18,7 @@
 		
 			List<Prodotti> l=(List<Prodotti>)request.getAttribute("tutti");
  			//List<Categorie> m=(List<Categorie>)request.getAttribute("tutti");
-			
+			 
 			
 			for(int j=0;j<l.size();j++){
 				
