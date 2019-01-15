@@ -22,7 +22,7 @@ public class Prodotti {
 	private String marca;
 	private int idCategorieProdotti;
 	
-	public int getId() {
+	public int getIdProdotti() {
 		return idprodotti;
 	}
 
