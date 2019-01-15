@@ -102,11 +102,6 @@ public class CoopController extends HttpServlet {
 		case "fornitori":
 			break;
 			
-		}
-		
-		
-		
-		
-		
+		}		
 	}
 }
